@@ -12,16 +12,13 @@ This repository contains a simple calculator web application. The calculator is 
 
 
 ### How to Use
-* Clone the repository:
-bash
+* Clone the repository
 * Copy code
 git clone https://github.com/your-username/simple-calculator.git
-* Navigate to the project directory:
-bash
+* Navigate to the project directory
 * Copy code
-cd simple-calculator
-* Open index.html in your browser:
-bash
+  __cd simple-calculator__
+* Open __index.html__ in your browser:
 * Copy code
 open index.html  ""or"" just double-click the index.html file.
 
