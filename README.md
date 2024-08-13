@@ -8,7 +8,7 @@ This repository contains a simple calculator web application. The calculator is 
 - __Error Handling:__ Displays error messages for invalid operations.
 
 ***The following is a visual representation of the calculator.***
-* <img src= "C:\Users\shaik\OneDrive\Desktop\Demo.png" alt="Calculator Demo" width="500">
+ <img src= "C:\Users\shaik\OneDrive\Desktop\Demo.png" alt="Calculator Demo" width="500">
 
 ### How to Use
 * Clone the repository:
