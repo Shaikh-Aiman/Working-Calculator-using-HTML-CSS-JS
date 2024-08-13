@@ -1,4 +1,4 @@
-####Simple Calculator
+#Simple Calculator
 This repository contains a simple calculator web application. The calculator is designed with basic arithmetic functionality, including addition, subtraction, multiplication, and division.
 
 ###Features
