@@ -1,4 +1,4 @@
-l# Simple Calculator
+# Simple Calculator
 This repository contains a simple calculator web application. The calculator is designed with basic arithmetic functionality, including addition, subtraction, multiplication, and division.
 
 ### Features
@@ -8,7 +8,7 @@ This repository contains a simple calculator web application. The calculator is 
 - __Error Handling:__ Displays error messages for invalid operations.
 
 ***The following is a visual representation of the calculator.***
-* <img src= "C:\Users\shaik\OneDrive\Desktop\Demo.png" alt="Calculator Demo">
+* <img src= "C:\Users\shaik\OneDrive\Desktop\Demo.png" alt="Calculator Demo" width="500">
 
 ### How to Use
 * Clone the repository:
