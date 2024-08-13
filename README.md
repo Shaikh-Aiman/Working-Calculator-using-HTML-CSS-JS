@@ -8,20 +8,20 @@ This repository contains a simple calculator web application. The calculator is 
 - __Error Handling:__ Displays error messages for invalid operations.
 
 ***The following is a visual representation of the calculator.***
-<img src= ""C:\Users\shaik\OneDrive\Desktop\Demo.png"/>
+<img src= ""C:\Users\shaik\OneDrive\Desktop\Demo.png" alt="Calculator Demo">
 
 ### How to Use
-*Clone the repository:
+* Clone the repository:
 bash
-*Copy code
+* Copy code
 git clone https://github.com/your-username/simple-calculator.git
-*Navigate to the project directory:
+* Navigate to the project directory:
 bash
-*Copy code
+* Copy code
 cd simple-calculator
-*Open index.html in your browser:
+* Open index.html in your browser:
 bash
-*Copy code
+* Copy code
 open index.html     or       just double-click the index.html file.
 
 ### Tech Stack
