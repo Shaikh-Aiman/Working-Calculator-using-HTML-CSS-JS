@@ -1,4 +1,4 @@
-# Simple Calculator
+l# Simple Calculator
 This repository contains a simple calculator web application. The calculator is designed with basic arithmetic functionality, including addition, subtraction, multiplication, and division.
 
 ### Features
@@ -8,7 +8,7 @@ This repository contains a simple calculator web application. The calculator is 
 - __Error Handling:__ Displays error messages for invalid operations.
 
 ***The following is a visual representation of the calculator.***
-<img src= ""C:\Users\shaik\OneDrive\Desktop\Demo.png" alt="Calculator Demo">
+* <img src= "C:\Users\shaik\OneDrive\Desktop\Demo.png" alt="Calculator Demo">
 
 ### How to Use
 * Clone the repository:
@@ -22,12 +22,12 @@ cd simple-calculator
 * Open index.html in your browser:
 bash
 * Copy code
-open index.html     or       just double-click the index.html file.
+open index.html  ""or"" just double-click the index.html file.
 
 ### Tech Stack
-*__HTML:__ Structure of the calculator.
-*__CSS:__ Styling the calculator, making it look clean and modern.
-*__JavaScript:__ Functionality of the calculator.
+* __HTML:__ Structure of the calculator.
+* __CSS:__ Styling the calculator, making it look clean and modern.
+* __JavaScript:__ Functionality of the calculator.
 
 ### Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
