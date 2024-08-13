@@ -18,9 +18,9 @@ git clone https://github.com/your-username/simple-calculator.git
 * Navigate to the project directory
 * Copy code
   __cd simple-calculator__
-* Open __index.html__ in your browser:
+* Open __index.html__ in your browser
 * Copy code
-open index.html  ""or"" just double-click the index.html file.
+open index.html __or__ just double-click the index.html file.
 
 ### Tech Stack
 * __HTML:__ Structure of the calculator.
