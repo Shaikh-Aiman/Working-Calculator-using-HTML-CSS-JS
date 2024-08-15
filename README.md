@@ -29,5 +29,5 @@ open index.html __or__ just double-click the index.html file.
 * __CSS:__ Styling the calculator, making it look clean and modern.
 * __JavaScript:__ Functionality of the calculator.
 
-### Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request.
+### License
+This project is licensed under the MIT License.
