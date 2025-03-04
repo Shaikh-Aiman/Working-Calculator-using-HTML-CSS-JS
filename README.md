@@ -10,7 +10,7 @@ This repository contains a simple calculator web application. The calculator is 
 ***The following is a visual representation of the calculator.***
   ![Demo](https://github.com/user-attachments/assets/902f6996-bbf6-4d8f-9749-6297a16cada6)
 ---
-[Click for Demo](https://shaikh-aiman.github.io/oibsip_01/ "DemoCalculator")
+[Click for Demo](https://shaikh-aiman.github.io/Working-Calculator-using-HTML-CSS-JS/ "DemoCalculator")
 ---
 
 ### How to Use
